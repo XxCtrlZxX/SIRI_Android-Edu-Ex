@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/seoulFragment" android:title="Seoul" />
+    <item android:id="@+id/busanFragment" android:title="Busan" />
+    <item android:id="@+id/namyangjuFragment" android:title="Namyangju" />
+</menu>

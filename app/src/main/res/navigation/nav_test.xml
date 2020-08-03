@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_test"
+    app:startDestination="@id/seoulFragment">
+
+    <fragment
+        android:id="@+id/seoulFragment"
+        android:name="com.example.day4.SeoulFragment"
+        android:label="fragment_seoul"
+        tools:layout="@layout/fragment_seoul" />
+    <fragment
+        android:id="@+id/busanFragment"
+        android:name="com.example.day4.BusanFragment"
+        android:label="fragment_busan"
+        tools:layout="@layout/fragment_busan" />
+    <fragment
+        android:id="@+id/namyangjuFragment"
+        android:name="com.example.day4.NamyangjuFragment"
+        android:label="fragment_namyangju"
+        tools:layout="@layout/fragment_namyangju" />
+</navigation>
