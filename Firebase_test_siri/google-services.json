@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1052725014986",
+    "firebase_url": "https://fir-test-android-84237.firebaseio.com",
+    "project_id": "fir-test-android-84237",
+    "storage_bucket": "fir-test-android-84237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052725014986:android:9a118ab614331371139f33",
+        "android_client_info": {
+          "package_name": "com.sunrin.firebase_test_siri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052725014986-119e7dtoo44lnfcbn62np0o0j2u5psb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLvEYMT68sYkpk9qp3gEDnauEPAfd4ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052725014986-119e7dtoo44lnfcbn62np0o0j2u5psb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
